@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792252435455,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۵ - ۱۹:۲۳:۵۵",
+  "generatedAt": 1792261500336,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۵ - ۲۱:۵۵:۰۰",
   "news": {
     "files": [
       "2026-10-17.json",
@@ -104,7 +104,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792252435419
+    "generatedAt": 1792261500301
   },
   "intervalMinutes": 30,
   "sources": [
@@ -127,16 +127,16 @@
       "ok": true
     },
     {
-      "id": "khabaronline",
-      "name": "خبرآنلاین",
-      "count": 30,
-      "ok": true
-    },
-    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
+    },
+    {
+      "id": "khabaronline",
+      "name": "خبرآنلاین",
+      "count": 30,
+      "ok": true
     },
     {
       "id": "tejaratnews",
@@ -151,8 +151,8 @@
       "ok": true
     },
     {
-      "id": "fars",
-      "name": "فارس",
+      "id": "entekhab",
+      "name": "انتخاب",
       "count": 0,
       "ok": false
     },
@@ -163,8 +163,8 @@
       "ok": true
     },
     {
-      "id": "entekhab",
-      "name": "انتخاب",
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
       "count": 0,
       "ok": false
     },
@@ -181,14 +181,14 @@
       "ok": true
     },
     {
-      "id": "dw",
-      "name": "دویچه‌وله",
-      "count": 0,
-      "ok": false
+      "id": "varzesh3",
+      "name": "ورزش سه",
+      "count": 40,
+      "ok": true
     },
     {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
+      "id": "dw",
+      "name": "دویچه‌وله",
       "count": 0,
       "ok": false
     },
@@ -199,10 +199,10 @@
       "ok": true
     },
     {
-      "id": "varzesh3",
-      "name": "ورزش سه",
-      "count": 40,
-      "ok": true
+      "id": "fars",
+      "name": "فارس",
+      "count": 0,
+      "ok": false
     }
   ],
   "retention": {
@@ -210,5 +210,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 35563
+  "durationMs": 51533
 }
