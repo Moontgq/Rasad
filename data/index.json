@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792261500336,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۵ - ۲۱:۵۵:۰۰",
+  "generatedAt": 1792270428088,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۶ - ۰۰:۲۳:۴۸",
   "news": {
     "files": [
       "2026-10-17.json",
@@ -104,19 +104,19 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792261500301
+    "generatedAt": 1792270428040
   },
   "intervalMinutes": 30,
   "sources": [
     {
-      "id": "mehr",
-      "name": "مهر",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "mehr",
+      "name": "مهر",
       "count": 30,
       "ok": true
     },
@@ -181,12 +181,6 @@
       "ok": true
     },
     {
-      "id": "varzesh3",
-      "name": "ورزش سه",
-      "count": 40,
-      "ok": true
-    },
-    {
       "id": "dw",
       "name": "دویچه‌وله",
       "count": 0,
@@ -196,6 +190,12 @@
       "id": "digiato",
       "name": "دیجیاتو",
       "count": 10,
+      "ok": true
+    },
+    {
+      "id": "varzesh3",
+      "name": "ورزش سه",
+      "count": 40,
       "ok": true
     },
     {
@@ -210,5 +210,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 51533
+  "durationMs": 37167
 }
