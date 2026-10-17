@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792225311779,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۵ - ۱۱:۵۱:۵۱",
+  "generatedAt": 1792239748585,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۵ - ۱۵:۵۲:۲۸",
   "news": {
     "files": [
       "2026-10-17.json",
@@ -94,7 +94,7 @@
     "errors": 47
   },
   "cars": {
-    "count": 14
+    "count": 15
   },
   "discovery": {
     "total": 497,
@@ -104,7 +104,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792225311722
+    "generatedAt": 1792239748560
   },
   "intervalMinutes": 30,
   "sources": [
@@ -163,8 +163,8 @@
       "ok": false
     },
     {
-      "id": "fars",
-      "name": "فارس",
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
       "count": 0,
       "ok": false
     },
@@ -187,16 +187,16 @@
       "ok": false
     },
     {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
-      "count": 0,
-      "ok": false
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
       "ok": true
+    },
+    {
+      "id": "fars",
+      "name": "فارس",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "digiato",
@@ -210,5 +210,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 27333
+  "durationMs": 38757
 }
