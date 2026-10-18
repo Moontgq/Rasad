@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792320859161,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۶ - ۱۴:۲۴:۱۹",
+  "generatedAt": 1792333813247,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۶ - ۱۸:۰۰:۱۳",
   "news": {
     "files": [
       "2026-10-18.json",
@@ -105,19 +105,19 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792320859111
+    "generatedAt": 1792333813186
   },
   "intervalMinutes": 30,
   "sources": [
     {
-      "id": "mehr",
-      "name": "مهر",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "mehr",
+      "name": "مهر",
       "count": 30,
       "ok": true
     },
@@ -172,7 +172,7 @@
     {
       "id": "bbc",
       "name": "بی‌بی‌سی فارسی",
-      "count": 29,
+      "count": 30,
       "ok": true
     },
     {
@@ -211,5 +211,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 31397
+  "durationMs": 29568
 }
