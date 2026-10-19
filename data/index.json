@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792386768602,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۷ - ۰۸:۴۲:۴۸",
+  "generatedAt": 1792408275773,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۷ - ۱۴:۴۱:۱۵",
   "news": {
     "files": [
       "2026-10-19.json",
@@ -13,6 +13,7 @@
       "2026-10-14.json",
       "2026-10-13.json",
       "2026-10-12.json",
+      "2026-10-10.json",
       "2026-10-08.json",
       "2026-10-07.json",
       "2026-10-06.json",
@@ -41,7 +42,7 @@
       "2026-07-30.json",
       "2026-07-18.json"
     ],
-    "days": 35
+    "days": 36
   },
   "prices": {
     "assets": [
@@ -106,7 +107,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792386768545
+    "generatedAt": 1792408275716
   },
   "intervalMinutes": 30,
   "sources": [
@@ -153,12 +154,6 @@
       "ok": true
     },
     {
-      "id": "fars",
-      "name": "فارس",
-      "count": 0,
-      "ok": false
-    },
-    {
       "id": "zoomit",
       "name": "زومیت",
       "count": 300,
@@ -167,6 +162,12 @@
     {
       "id": "entekhab",
       "name": "انتخاب",
+      "count": 0,
+      "ok": false
+    },
+    {
+      "id": "fars",
+      "name": "فارس",
       "count": 0,
       "ok": false
     },
@@ -189,16 +190,16 @@
       "ok": false
     },
     {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
-      "count": 0,
-      "ok": false
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
       "ok": true
+    },
+    {
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "digiato",
@@ -212,5 +213,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 35652
+  "durationMs": 26988
 }
