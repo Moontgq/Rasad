@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792431842785,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۷ - ۲۱:۱۴:۰۲",
+  "generatedAt": 1792448228385,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۰۱:۴۷:۰۸",
   "news": {
     "files": [
       "2026-10-19.json",
@@ -107,7 +107,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792431842730
+    "generatedAt": 1792448228338
   },
   "intervalMinutes": 30,
   "sources": [
@@ -118,14 +118,20 @@
       "ok": true
     },
     {
+      "id": "irna",
+      "name": "ایرنا",
+      "count": 30,
+      "ok": true
+    },
+    {
       "id": "isna",
       "name": "ایسنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "khabaronline",
+      "name": "خبرآنلاین",
       "count": 30,
       "ok": true
     },
@@ -136,8 +142,14 @@
       "ok": false
     },
     {
-      "id": "khabaronline",
-      "name": "خبرآنلاین",
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
+      "ok": true
+    },
+    {
+      "id": "shana",
+      "name": "شانا",
       "count": 30,
       "ok": true
     },
@@ -148,21 +160,9 @@
       "ok": false
     },
     {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
-    },
-    {
       "id": "zoomit",
       "name": "زومیت",
       "count": 300,
-      "ok": true
-    },
-    {
-      "id": "shana",
-      "name": "شانا",
-      "count": 30,
       "ok": true
     },
     {
@@ -213,5 +213,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 30468
+  "durationMs": 35535
 }
