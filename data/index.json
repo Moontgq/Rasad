@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792497709669,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۱۵:۳۱:۴۹",
+  "generatedAt": 1792515003827,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۲۰:۲۰:۰۳",
   "news": {
     "files": [
       "2026-10-20.json",
@@ -108,7 +108,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792497709621
+    "generatedAt": 1792515003780
   },
   "intervalMinutes": 30,
   "sources": [
@@ -131,34 +131,22 @@
       "ok": true
     },
     {
-      "id": "khabaronline",
-      "name": "خبرآنلاین",
-      "count": 30,
-      "ok": true
-    },
-    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
     },
     {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
-    },
-    {
-      "id": "fars",
-      "name": "فارس",
+      "id": "entekhab",
+      "name": "انتخاب",
       "count": 0,
       "ok": false
     },
     {
-      "id": "zoomit",
-      "name": "زومیت",
-      "count": 300,
-      "ok": true
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "shana",
@@ -167,10 +155,22 @@
       "ok": true
     },
     {
-      "id": "entekhab",
-      "name": "انتخاب",
-      "count": 0,
-      "ok": false
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
+      "ok": true
+    },
+    {
+      "id": "zoomit",
+      "name": "زومیت",
+      "count": 300,
+      "ok": true
+    },
+    {
+      "id": "khabaronline",
+      "name": "خبرآنلاین",
+      "count": 30,
+      "ok": true
     },
     {
       "id": "bbc",
@@ -191,16 +191,16 @@
       "ok": false
     },
     {
+      "id": "fars",
+      "name": "فارس",
+      "count": 0,
+      "ok": false
+    },
+    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
       "ok": true
-    },
-    {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
-      "count": 0,
-      "ok": false
     },
     {
       "id": "digiato",
@@ -214,5 +214,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 37705
+  "durationMs": 47248
 }
