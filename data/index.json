@@ -1,10 +1,11 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792448228385,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۰۱:۴۷:۰۸",
+  "generatedAt": 1792458818298,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۰۴:۴۳:۳۸",
   "news": {
     "files": [
+      "2026-10-20.json",
       "2026-10-19.json",
       "2026-10-18.json",
       "2026-10-17.json",
@@ -42,7 +43,7 @@
       "2026-07-30.json",
       "2026-07-18.json"
     ],
-    "days": 36
+    "days": 37
   },
   "prices": {
     "assets": [
@@ -107,7 +108,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792448228338
+    "generatedAt": 1792458818269
   },
   "intervalMinutes": 30,
   "sources": [
@@ -130,26 +131,14 @@
       "ok": true
     },
     {
-      "id": "khabaronline",
-      "name": "خبرآنلاین",
-      "count": 30,
-      "ok": true
-    },
-    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
     },
     {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
-    },
-    {
-      "id": "shana",
-      "name": "شانا",
+      "id": "khabaronline",
+      "name": "خبرآنلاین",
       "count": 30,
       "ok": true
     },
@@ -160,9 +149,21 @@
       "ok": false
     },
     {
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
+      "ok": true
+    },
+    {
       "id": "zoomit",
       "name": "زومیت",
       "count": 300,
+      "ok": true
+    },
+    {
+      "id": "shana",
+      "name": "شانا",
+      "count": 30,
       "ok": true
     },
     {
@@ -190,16 +191,16 @@
       "ok": false
     },
     {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
-      "count": 0,
-      "ok": false
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
       "ok": true
+    },
+    {
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "digiato",
@@ -213,5 +214,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 35535
+  "durationMs": 62823
 }
