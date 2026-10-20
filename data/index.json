@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792528108773,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۸ - ۲۳:۵۸:۲۸",
+  "generatedAt": 1792538540042,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۹ - ۰۲:۵۲:۲۰",
   "news": {
     "files": [
       "2026-10-20.json",
@@ -108,7 +108,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792528108738
+    "generatedAt": 1792538539997
   },
   "intervalMinutes": 30,
   "sources": [
@@ -119,14 +119,20 @@
       "ok": true
     },
     {
+      "id": "irna",
+      "name": "ایرنا",
+      "count": 30,
+      "ok": true
+    },
+    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "isna",
+      "name": "ایسنا",
       "count": 30,
       "ok": true
     },
@@ -137,9 +143,9 @@
       "ok": true
     },
     {
-      "id": "isna",
-      "name": "ایسنا",
-      "count": 30,
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
       "ok": true
     },
     {
@@ -147,12 +153,6 @@
       "name": "انتخاب",
       "count": 0,
       "ok": false
-    },
-    {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
     },
     {
       "id": "zoomit",
@@ -179,9 +179,15 @@
       "ok": true
     },
     {
-      "id": "euronews",
-      "name": "یورونیوز",
-      "count": 50,
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
+      "ok": true
+    },
+    {
+      "id": "varzesh3",
+      "name": "ورزش سه",
+      "count": 40,
       "ok": true
     },
     {
@@ -191,16 +197,10 @@
       "ok": false
     },
     {
-      "id": "varzesh3",
-      "name": "ورزش سه",
-      "count": 40,
-      "ok": true
-    },
-    {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
-      "ok": true
+      "id": "euronews",
+      "name": "یورونیوز",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "fars",
@@ -214,5 +214,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 62846
+  "durationMs": 54583
 }
