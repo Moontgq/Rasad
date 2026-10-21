@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792606484433,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۹ - ۲۱:۴۴:۴۴",
+  "generatedAt": 1792619909703,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۳۰ - ۰۱:۲۸:۲۹",
   "news": {
     "files": [
       "2026-10-21.json",
@@ -99,7 +99,7 @@
     "errors": 47
   },
   "cars": {
-    "count": 16
+    "count": 17
   },
   "discovery": {
     "total": 497,
@@ -109,7 +109,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792606484394
+    "generatedAt": 1792619909657
   },
   "intervalMinutes": 30,
   "sources": [
@@ -120,46 +120,40 @@
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
-      "count": 30,
-      "ok": true
-    },
-    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
     },
     {
+      "id": "irna",
+      "name": "ایرنا",
+      "count": 0,
+      "ok": false
+    },
+    {
       "id": "isna",
       "name": "ایسنا",
-      "count": 30,
-      "ok": true
+      "count": 0,
+      "ok": false
+    },
+    {
+      "id": "fars",
+      "name": "فارس",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "khabaronline",
       "name": "خبرآنلاین",
-      "count": 30,
-      "ok": true
-    },
-    {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
+      "count": 0,
+      "ok": false
     },
     {
       "id": "entekhab",
       "name": "انتخاب",
       "count": 0,
       "ok": false
-    },
-    {
-      "id": "shana",
-      "name": "شانا",
-      "count": 30,
-      "ok": true
     },
     {
       "id": "zoomit",
@@ -174,21 +168,33 @@
       "ok": false
     },
     {
+      "id": "shana",
+      "name": "شانا",
+      "count": 0,
+      "ok": false
+    },
+    {
       "id": "bbc",
       "name": "بی‌بی‌سی فارسی",
       "count": 29,
       "ok": true
     },
     {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 0,
+      "ok": false
+    },
+    {
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 0,
+      "ok": false
+    },
+    {
       "id": "euronews",
       "name": "یورونیوز",
       "count": 50,
-      "ok": true
-    },
-    {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
       "ok": true
     },
     {
@@ -202,12 +208,6 @@
       "name": "ورزش سه",
       "count": 40,
       "ok": true
-    },
-    {
-      "id": "fars",
-      "name": "فارس",
-      "count": 0,
-      "ok": false
     }
   ],
   "retention": {
@@ -215,5 +215,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 59415
+  "durationMs": 124187
 }

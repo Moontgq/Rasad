@@ -111,7 +111,14 @@
       "source": "باما (برندها)",
       "page": "https://bama.ir/car/tara",
       "at": 1792333810736
+    },
+    {
+      "name": "تویوتا لند",
+      "price": 8400000000,
+      "source": "باما",
+      "page": "https://bama.ir/car",
+      "at": 1792619900082
     }
   ],
-  "updatedAt": 1792606481927
+  "updatedAt": 1792619907356
 }
