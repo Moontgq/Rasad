@@ -1,10 +1,11 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792538540042,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۲۹ - ۰۲:۵۲:۲۰",
+  "generatedAt": 1792547874823,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۲۹ - ۰۵:۲۷:۵۴",
   "news": {
     "files": [
+      "2026-10-21.json",
       "2026-10-20.json",
       "2026-10-19.json",
       "2026-10-18.json",
@@ -43,7 +44,7 @@
       "2026-07-30.json",
       "2026-07-18.json"
     ],
-    "days": 37
+    "days": 38
   },
   "prices": {
     "assets": [
@@ -108,7 +109,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792538539997
+    "generatedAt": 1792547874777
   },
   "intervalMinutes": 30,
   "sources": [
@@ -119,8 +120,8 @@
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "isna",
+      "name": "ایسنا",
       "count": 30,
       "ok": true
     },
@@ -131,8 +132,8 @@
       "ok": false
     },
     {
-      "id": "isna",
-      "name": "ایسنا",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
@@ -149,10 +150,10 @@
       "ok": true
     },
     {
-      "id": "entekhab",
-      "name": "انتخاب",
-      "count": 0,
-      "ok": false
+      "id": "shana",
+      "name": "شانا",
+      "count": 30,
+      "ok": true
     },
     {
       "id": "zoomit",
@@ -161,10 +162,10 @@
       "ok": true
     },
     {
-      "id": "shana",
-      "name": "شانا",
-      "count": 30,
-      "ok": true
+      "id": "entekhab",
+      "name": "انتخاب",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "eghtesadnews",
@@ -179,15 +180,15 @@
       "ok": true
     },
     {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
-      "ok": true
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
+      "ok": true
+    },
+    {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
       "ok": true
     },
     {
@@ -214,5 +215,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 54583
+  "durationMs": 53751
 }
