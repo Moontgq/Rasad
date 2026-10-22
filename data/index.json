@@ -1,10 +1,11 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792619909703,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۳۰ - ۰۱:۲۸:۲۹",
+  "generatedAt": 1792629400825,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۳۰ - ۰۴:۰۶:۴۰",
   "news": {
     "files": [
+      "2026-10-22.json",
       "2026-10-21.json",
       "2026-10-20.json",
       "2026-10-19.json",
@@ -44,7 +45,7 @@
       "2026-07-30.json",
       "2026-07-18.json"
     ],
-    "days": 38
+    "days": 39
   },
   "prices": {
     "assets": [
@@ -109,7 +110,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792619909657
+    "generatedAt": 1792629400775
   },
   "intervalMinutes": 30,
   "sources": [
@@ -120,40 +121,40 @@
       "ok": true
     },
     {
+      "id": "irna",
+      "name": "ایرنا",
+      "count": 30,
+      "ok": true
+    },
+    {
+      "id": "isna",
+      "name": "ایسنا",
+      "count": 30,
+      "ok": true
+    },
+    {
       "id": "tasnim",
       "name": "تسنیم",
       "count": 0,
       "ok": false
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
-      "count": 0,
-      "ok": false
-    },
-    {
-      "id": "isna",
-      "name": "ایسنا",
-      "count": 0,
-      "ok": false
-    },
-    {
-      "id": "fars",
-      "name": "فارس",
-      "count": 0,
-      "ok": false
-    },
-    {
       "id": "khabaronline",
       "name": "خبرآنلاین",
-      "count": 0,
-      "ok": false
+      "count": 30,
+      "ok": true
     },
     {
-      "id": "entekhab",
-      "name": "انتخاب",
-      "count": 0,
-      "ok": false
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
+      "ok": true
+    },
+    {
+      "id": "shana",
+      "name": "شانا",
+      "count": 30,
+      "ok": true
     },
     {
       "id": "zoomit",
@@ -162,14 +163,14 @@
       "ok": true
     },
     {
-      "id": "eghtesadnews",
-      "name": "اقتصادنیوز",
+      "id": "entekhab",
+      "name": "انتخاب",
       "count": 0,
       "ok": false
     },
     {
-      "id": "shana",
-      "name": "شانا",
+      "id": "eghtesadnews",
+      "name": "اقتصادنیوز",
       "count": 0,
       "ok": false
     },
@@ -178,18 +179,6 @@
       "name": "بی‌بی‌سی فارسی",
       "count": 29,
       "ok": true
-    },
-    {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 0,
-      "ok": false
-    },
-    {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 0,
-      "ok": false
     },
     {
       "id": "euronews",
@@ -208,6 +197,18 @@
       "name": "ورزش سه",
       "count": 40,
       "ok": true
+    },
+    {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
+      "ok": true
+    },
+    {
+      "id": "fars",
+      "name": "فارس",
+      "count": 0,
+      "ok": false
     }
   ],
   "retention": {
@@ -215,5 +216,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 124187
+  "durationMs": 48883
 }
