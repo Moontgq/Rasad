@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792646401155,
-  "generatedAtJalali": "۱۴۰۵/۰۷/۳۰ - ۰۸:۵۰:۰۱",
+  "generatedAt": 1792665252325,
+  "generatedAtJalali": "۱۴۰۵/۰۷/۳۰ - ۱۴:۰۴:۱۲",
   "news": {
     "files": [
       "2026-10-22.json",
@@ -110,10 +110,16 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792646401108
+    "generatedAt": 1792665252273
   },
   "intervalMinutes": 30,
   "sources": [
+    {
+      "id": "mehr",
+      "name": "مهر",
+      "count": 30,
+      "ok": true
+    },
     {
       "id": "irna",
       "name": "ایرنا",
@@ -121,10 +127,10 @@
       "ok": true
     },
     {
-      "id": "mehr",
-      "name": "مهر",
-      "count": 30,
-      "ok": true
+      "id": "tasnim",
+      "name": "تسنیم",
+      "count": 0,
+      "ok": false
     },
     {
       "id": "isna",
@@ -133,8 +139,8 @@
       "ok": true
     },
     {
-      "id": "tasnim",
-      "name": "تسنیم",
+      "id": "entekhab",
+      "name": "انتخاب",
       "count": 0,
       "ok": false
     },
@@ -151,22 +157,16 @@
       "ok": true
     },
     {
-      "id": "shana",
-      "name": "شانا",
-      "count": 30,
-      "ok": true
-    },
-    {
       "id": "zoomit",
       "name": "زومیت",
       "count": 300,
       "ok": true
     },
     {
-      "id": "entekhab",
-      "name": "انتخاب",
-      "count": 0,
-      "ok": false
+      "id": "shana",
+      "name": "شانا",
+      "count": 30,
+      "ok": true
     },
     {
       "id": "eghtesadnews",
@@ -193,15 +193,15 @@
       "ok": false
     },
     {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
-      "ok": true
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
+      "ok": true
+    },
+    {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
       "ok": true
     },
     {
@@ -216,5 +216,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 51304
+  "durationMs": 55726
 }
