@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792756804303,
-  "generatedAtJalali": "۱۴۰۵/۰۸/۰۱ - ۱۵:۳۰:۰۴",
+  "generatedAt": 1792774651869,
+  "generatedAtJalali": "۱۴۰۵/۰۸/۰۱ - ۲۰:۲۷:۳۱",
   "news": {
     "files": [
       "2026-10-23.json",
@@ -111,7 +111,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792756804266
+    "generatedAt": 1792774651817
   },
   "intervalMinutes": 30,
   "sources": [
@@ -122,14 +122,14 @@
       "ok": true
     },
     {
-      "id": "isna",
-      "name": "ایسنا",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "isna",
+      "name": "ایسنا",
       "count": 30,
       "ok": true
     },
@@ -146,16 +146,16 @@
       "ok": true
     },
     {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
-    },
-    {
       "id": "fars",
       "name": "فارس",
       "count": 0,
       "ok": false
+    },
+    {
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
+      "ok": true
     },
     {
       "id": "zoomit",
@@ -217,5 +217,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 46493
+  "durationMs": 37147
 }
