@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792736828382,
-  "generatedAtJalali": "۱۴۰۵/۰۸/۰۱ - ۰۹:۵۷:۰۸",
+  "generatedAt": 1792756804303,
+  "generatedAtJalali": "۱۴۰۵/۰۸/۰۱ - ۱۵:۳۰:۰۴",
   "news": {
     "files": [
       "2026-10-23.json",
@@ -111,7 +111,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792736828332
+    "generatedAt": 1792756804266
   },
   "intervalMinutes": 30,
   "sources": [
@@ -122,14 +122,14 @@
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "isna",
+      "name": "ایسنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "isna",
-      "name": "ایسنا",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
@@ -194,12 +194,6 @@
       "ok": false
     },
     {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
-      "ok": true
-    },
-    {
       "id": "eghtesadnews",
       "name": "اقتصادنیوز",
       "count": 0,
@@ -210,6 +204,12 @@
       "name": "ورزش سه",
       "count": 40,
       "ok": true
+    },
+    {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
+      "ok": true
     }
   ],
   "retention": {
@@ -217,5 +217,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 31324
+  "durationMs": 46493
 }
