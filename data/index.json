@@ -1,8 +1,8 @@
 {
   "app": "رصد",
   "version": "3.0.0",
-  "generatedAt": 1792825885974,
-  "generatedAtJalali": "۱۴۰۵/۰۸/۰۲ - ۱۰:۴۱:۲۵",
+  "generatedAt": 1792843924966,
+  "generatedAtJalali": "۱۴۰۵/۰۸/۰۲ - ۱۵:۴۲:۰۴",
   "news": {
     "files": [
       "2026-10-24.json",
@@ -112,7 +112,7 @@
     "file": "latest.json",
     "posts": 400,
     "assets": 46,
-    "generatedAt": 1792825885943
+    "generatedAt": 1792843924912
   },
   "intervalMinutes": 30,
   "sources": [
@@ -123,14 +123,14 @@
       "ok": true
     },
     {
-      "id": "irna",
-      "name": "ایرنا",
+      "id": "isna",
+      "name": "ایسنا",
       "count": 30,
       "ok": true
     },
     {
-      "id": "isna",
-      "name": "ایسنا",
+      "id": "irna",
+      "name": "ایرنا",
       "count": 30,
       "ok": true
     },
@@ -147,21 +147,15 @@
       "ok": true
     },
     {
-      "id": "tejaratnews",
-      "name": "تجارت‌نیوز",
-      "count": 100,
-      "ok": true
-    },
-    {
       "id": "fars",
       "name": "فارس",
       "count": 0,
       "ok": false
     },
     {
-      "id": "zoomit",
-      "name": "زومیت",
-      "count": 300,
+      "id": "tejaratnews",
+      "name": "تجارت‌نیوز",
+      "count": 100,
       "ok": true
     },
     {
@@ -175,6 +169,12 @@
       "name": "انتخاب",
       "count": 0,
       "ok": false
+    },
+    {
+      "id": "zoomit",
+      "name": "زومیت",
+      "count": 300,
+      "ok": true
     },
     {
       "id": "bbc",
@@ -201,15 +201,15 @@
       "ok": false
     },
     {
-      "id": "digiato",
-      "name": "دیجیاتو",
-      "count": 10,
-      "ok": true
-    },
-    {
       "id": "varzesh3",
       "name": "ورزش سه",
       "count": 40,
+      "ok": true
+    },
+    {
+      "id": "digiato",
+      "name": "دیجیاتو",
+      "count": 10,
       "ok": true
     }
   ],
@@ -218,5 +218,5 @@
     "priceDays": 1095,
     "commentsDays": 3650
   },
-  "durationMs": 31221
+  "durationMs": 31168
 }
